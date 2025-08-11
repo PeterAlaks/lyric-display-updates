@@ -1,6 +1,6 @@
-echo "# Lyric Display App – Updates Repository
+LyricDisplay App – Updates Repository
 
-This repository is used **exclusively** for hosting update files for the Lyric Display desktop app.
+This repository is used **exclusively** for hosting update files for the LyricDisplay desktop app.
 
 ## Purpose
 When new versions of the app are built and published, release assets (installers, update packages, and \`latest.yml\` metadata) are automatically uploaded here by the **Electron auto-update** system.
