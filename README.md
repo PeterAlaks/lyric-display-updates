@@ -102,7 +102,7 @@ If you want to capture outputs from another PC on the same LAN:
 
 ## How to Use — Video Guide
 
-For a step-by-step demonstration, click on the play button below to watch the included video guide:
+For a step-by-step demonstration, click on the video below to watch the included guide (Opens in Google Drive):
 
 <p align="left">
   <a href="https://drive.google.com/file/d/1BBjL5uovXIyv5_p-xNc0AFSyCADNai_j/view?usp=sharing">
