@@ -104,7 +104,7 @@ If you want to capture outputs from another PC on the same LAN:
 
 For a step-by-step demonstration, watch the included video guide:
 
-[▶️ Watch the video](./How%20to%20Use%20LyricDisplay.mp4)
+[▶️ Watch the video](https://drive.google.com/file/d/1BBjL5uovXIyv5_p-xNc0AFSyCADNai_j/view?usp=sharing)
 
 This video walks through launching the app, loading lyrics, etc.
 
