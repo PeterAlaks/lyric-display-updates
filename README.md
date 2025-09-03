@@ -102,9 +102,12 @@ If you want to capture outputs from another PC on the same LAN:
 
 ## How to Use — Video Guide
 
-For a step-by-step demonstration, watch the included video guide:
+For a step-by-step demonstration, click on the play button below to watch the included video guide:
 
-[▶️ Watch the video](https://drive.google.com/file/d/1BBjL5uovXIyv5_p-xNc0AFSyCADNai_j/view?usp=sharing)
+<a href="https://drive.google.com/file/d/1BBjL5uovXIyv5_p-xNc0AFSyCADNai_j/view?usp=sharing" target="_blank">
+  <img src="https://img.icons8.com/fluency/600x/play-button-circled.png" alt="▶️ Watch the video" width="120"/>
+</a>
+</a>
 
 This video walks through launching the app, loading lyrics, etc.
 
