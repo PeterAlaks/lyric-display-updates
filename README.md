@@ -100,6 +100,14 @@ If you want to capture outputs from another PC on the same LAN:
 * Navigate results with **Shift + Up/Down**.
 * Refresh or resync outputs if styling changes don’t appear immediately.
 
+## How to Use — Video Guide
+
+For a step-by-step demonstration, watch the included video guide:
+
+[▶️ Watch the video](./How%20to%20Use%20LyricDisplay.mp4)
+
+This video walks through launching the app, loading lyrics, etc.
+
 ---
 
 ## Highlights (what you’re getting)
