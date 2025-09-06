@@ -2,7 +2,6 @@
 
 > Official release repository for **LyricDisplay** — a professional real‑time lyric display app for live events, church services, and broadcasts.
 
-**Current Version:** 2.1.1
 **Maintained by:** Peter Alakembi
 **Built for:** Victory City Media
 
@@ -157,13 +156,6 @@ See the **main app repo** for deeper troubleshooting guides and FAQs.
 ## Changelog
 
 For detailed changes, use the per‑release notes on the **Releases** page. The high‑level latest:
-
-**v2.1.1**
-
-* Stability and performance improvements
-* More reliable real‑time sync
-* Enhanced search and navigation
-* Polished styling engine
 
 ---
 
