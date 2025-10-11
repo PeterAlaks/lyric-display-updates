@@ -3,7 +3,6 @@
 > Official release repository for **LyricDisplay** — a professional real‑time lyric display app for live events, church services, and broadcasts.
 
 **Maintained by:** Peter Alakembi
-**Built for:** Victory City Media
 
 ---
 
@@ -51,7 +50,7 @@ Once installed, you can start using LyricDisplay right away.
 * In OBS or VMix, add a **Browser Source** input.
 * For **Output 1**, set the URL to `http://localhost:4000/#/output1`.
 * For **Output 2**, set the URL to `http://localhost:4000/#/output2`.
-* Set the width to match your video canvas (e.g. 1920) and the height to suit your lyric lines (typically 200–300px).
+* Set the width and height of the browser source to match your video canvas (e.g. 1920 x 1080).
 * Enable **Shutdown source when not visible** for performance and **Refresh browser when active** for reliability.
 
 ### 3. OBS/VMix integration (across the network)
@@ -170,7 +169,7 @@ Contact: Peter Alakembi — [https://linktr.ee/peteralaks](https://linktr.ee/pet
 
 ## Licence & credits
 
-© 2025 Victory City Media. All rights reserved.
+© 2025 Peter Alakembi. All rights reserved.
 
 **Developers**
 Peter Alakembi (Lead Designer & Developer)
