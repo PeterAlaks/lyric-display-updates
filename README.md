@@ -19,8 +19,8 @@
 Grab the installer for your platform from the **Latest release** page:
 
 * **Windows** – `.exe`
-* **macOS** – `.dmg`
-* **Linux** – `.AppImage` (or other artefacts provided per release)
+* **macOS** – `.dmg` (Coming soon)
+* **Linux** – `.AppImage` (or other artefacts provided per release) (Coming soon)
 
 > Builds are packaged for one‑click install. No CLI required.
 
