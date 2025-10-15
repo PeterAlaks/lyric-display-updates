@@ -169,6 +169,31 @@ Contact: Peter Alakembi — [https://linktr.ee/peteralaks](https://linktr.ee/pet
 
 ## Licence & credits
 
+## Lyrics Provider Credits & Copyright Disclaimer
+
+LyricDisplay integrates optional online lyrics search features powered by free and publicly available lyrics providers.  
+All lyrics, metadata, and related content displayed through these services remain the property of their respective copyright holders.
+
+### Integrated Providers
+- **Lyrics.ovh** — Free lyrics API (public domain and licensed material) provided for educational and non-commercial use.  
+- **Vagalume** — © Vagalume Media Group. Lyrics and artist data are provided through the official Vagalume API.  
+- **Hymnary.org** — © Hymnary.org / Christian Classics Ethereal Library (CCEL). Content is provided for educational and liturgical purposes.  
+- **Open Hymnal Project** — Public domain hymn texts and music as compiled by the Open Hymnal Project.
+
+### Logos & Trademarks
+Logos and brand marks of the above providers are displayed in LyricDisplay **for identification and attribution purposes only**.  
+All trademarks, service marks, and logos are the property of their respective owners.  
+Their inclusion does **not imply endorsement, partnership, or affiliation** with LyricDisplay or its developers.
+
+### Usage Notice
+- LyricDisplay does **not store**, redistribute, or claim ownership of any lyrics obtained through these sources.  
+- Lyrics are fetched on demand from publicly accessible APIs and displayed **solely for personal, church, and non-commercial use**.  
+- If you are a copyright holder and wish to request content removal or modification, please contact the original provider directly.
+
+> **Disclaimer:** LyricDisplay and its developers are not affiliated with or endorsed by any of the above content providers.  
+> This feature is offered “as is” for convenience and educational purposes only.
+
+
 © 2025 Peter Alakembi. All rights reserved.
 
 **Developers**
