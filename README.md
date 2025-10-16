@@ -132,15 +132,6 @@ This video walks through launching the app, loading lyrics, etc.
 
 ---
 
-## Verify your download (optional)
-
-Where provided, compare the file’s checksum against the published hash on the release page. On Windows PowerShell:
-
-```powershell
-Get-FileHash .\LyricDisplay-Setup-2.1.1.exe -Algorithm SHA256
-```
-
----
 
 ## Troubleshooting
 
