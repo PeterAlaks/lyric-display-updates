@@ -10,7 +10,7 @@
 
 * **Latest release:** [https://github.com/PeterAlaks/lyric-display-updates/releases/latest](https://github.com/PeterAlaks/lyric-display-updates/releases/latest)
 * **All releases:** [https://github.com/PeterAlaks/lyric-display-updates/releases](https://github.com/PeterAlaks/lyric-display-updates/releases)
-* **Main app repo (Currently private):** [https://github.com/PeterAlaks/lyric-display-app](https://github.com/PeterAlaks/lyric-display-app)
+* **Main app repo:** [https://github.com/PeterAlaks/lyric-display-app](https://github.com/PeterAlaks/lyric-display-app)
 
 ---
 
