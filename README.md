@@ -4,6 +4,8 @@
 
 **Maintained by:** Peter Alakembi
 
+<img src="./Screenshots/LyricDisplay 17_10_2025 09_49_56.png"/>
+
 ---
 
 ## Quick links
@@ -34,6 +36,8 @@ Grab the installer for your platform from the **Latest release** page:
 
 **Uninstall / reinstall:** Installing a newer version over an existing one is supported; your settings are preserved.
 
+<img src="./Screenshots/LyricDisplay 17_10_2025 09_51_46.png"/>
+
 ---
 
 ## How to use
@@ -58,6 +62,15 @@ Once installed, you can start using LyricDisplay right away.
 If you want to capture outputs from another PC on the same LAN:
 
 ⚠️ **Important:** All systems (the machine running LyricDisplay and the OBS/VMix machine) must be connected to the **same network** via LAN cable or Wi‑Fi.
+
+Note: Identify Your Router’s Gateway (Important)
+Routers don’t always use the same address — some use 192.168.0.1, others 192.168.1.1, 192.168.8.1, etc. You need to confirm yours before setting a static IP.
+
+To find it:
+Press Win + R then type: cmd, and press Enter
+Type: ipconfig
+Look for the line labelled “Default Gateway” — this is your router’s IP (for example 192.168.0.1 or 192.168.1.1).
+Use that exact address in the next step as your Default Gateway.
 
 1. **Assign a static IP** to the machine running LyricDisplay:
 
@@ -84,6 +97,9 @@ If you want to capture outputs from another PC on the same LAN:
 * Use **File → Load Lyrics File** (or `Ctrl/Cmd + O`).
 * Drag and drop `.txt` files directly into the app.
 * Create a new song from scratch with **File → New Song** (`Ctrl/Cmd + N`).
+* Click on the globe icon button at the top of the left sidebar and search for song lyrics on the search bar aggregated from integrated online providers
+
+<img src="./Screenshots/LyricDisplay 17_10_2025 09_48_53.png"/>
 
 ### 5. Manage outputs
 
@@ -120,6 +136,8 @@ This video walks through launching the app, loading lyrics, etc.
 * **Cross‑platform** with keyboard‑driven workflow and dark mode
 
 > Full feature list and user guide live in the **main app repo** docs.
+
+<img src="./Screenshots/LyricDisplay 17_10_2025 09_50_15.png"/>
 
 ---
 
